@@ -22,7 +22,7 @@ To get started, first start by cloning <a href="https://github.com/coding-boot-c
 
 # Demo
 <a href="https://drive.google.com/file/d/1sks3nvW1UJdbe26g6UPizWMgBPIN_YSO/view">Initialising the app in terminal</a>
-<a href="https://drive.google.com/file/d/1Ql4qBcYFfP6Dvrlemjh_QeMAbjRJb0o_/view">Insomnia walkthrough</a>
+<br><a href="https://drive.google.com/file/d/1Ql4qBcYFfP6Dvrlemjh_QeMAbjRJb0o_/view">Insomnia walkthrough</a>
 
 # License
 This project is licensed under <a href="#">MIT License</a>
